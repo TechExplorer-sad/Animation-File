@@ -1,2 +1,1 @@
-# Animation-File
-In this repository, I showcase the animations I've learned, all built from scratch without relying on any pre-built libraries.
+🚀 Welcome to my animation repository! 🎨✨ Here, I showcase the animations I've learned and crafted entirely from scratch—no pre-built libraries, just pure code and creativity! 🎭💻 This project is a reflection of my journey in mastering motion, experimenting with different techniques to bring ideas to life. 🌟🔥 Get ready to explore a world of dynamic and engaging animations! 🚀🎥
